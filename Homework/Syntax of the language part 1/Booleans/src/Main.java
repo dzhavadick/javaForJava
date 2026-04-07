@@ -16,7 +16,8 @@ public class Main {
         // Example
         // apples - 5
         if (appleJuice) {
-            System.out.println("Apple juice");
+            System.out.println("Apple juice." +
+                    "Тут есть конфликт версий?");
         }
 
         // powder - 400 g, sugar - 10 g, milk - 1 l, oil - 30 ml
