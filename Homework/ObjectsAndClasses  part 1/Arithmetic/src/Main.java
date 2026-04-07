@@ -12,6 +12,5 @@ public class Main {
 
         int minResult = arithmetic.minNumbers();
         System.out.println("Минимальное из двух чисел " + minResult);
-        System.out.println("Я изменил этот файл для проверки работы Git");
     }
 }
