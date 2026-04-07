@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Homework/ObjectsAndClasses  part 1/InternetShop/out" />
+      <excludeFolder url="file://$MODULE_DIR$/Homework/Syntax of the language part 1/AgeComparator/out" />
+      <excludeFolder url="file://$MODULE_DIR$/Homework/Syntax of the language part 2/FactorialCalculator/out" />
+      <excludeFolder url="file://$MODULE_DIR$/Homework/Syntax of the language part 2/ForCycle/out" />
+      <excludeFolder url="file://$MODULE_DIR$/Homework/Syntax of the language part 2/GuessTheNumber/out" />
+      <excludeFolder url="file://$MODULE_DIR$/Homework/Syntax of the language part 2/SwimmingPool/out" />
+      <excludeFolder url="file://$MODULE_DIR$/Homework/TinderBolt-v6/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Practice/Blackjack/out" />
+      <excludeFolder url="file://$MODULE_DIR$/lessons/Break/out" />
+      <excludeFolder url="file://$MODULE_DIR$/lessons/CoffeeMachine/out" />
+      <excludeFolder url="file://$MODULE_DIR$/lessons/Cycles/out" />
+      <excludeFolder url="file://$MODULE_DIR$/lessons/FillingStation/out" />
+      <excludeFolder url="file://$MODULE_DIR$/lessons/SwitchCase/out" />
+      <excludeFolder url="file://$MODULE_DIR$/lessons/Ternary/out" />
+      <excludeFolder url="file://$MODULE_DIR$/lessons/While/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
